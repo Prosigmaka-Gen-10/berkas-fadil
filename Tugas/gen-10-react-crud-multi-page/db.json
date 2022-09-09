@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "article_title": "Crypto",
+      "article_content": "Description",
+      "article_publish_date": "2022-09-21"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "category_name": "Agama islam"
+    }
+  ]
+}
